@@ -10,7 +10,7 @@
     ],
     "tags": {
         "highway": "crossing",
-        "crossing": "zebra",
+        "crossing_ref": "zebra",
         "traffic_calming": "table"
     },
     "reference": {

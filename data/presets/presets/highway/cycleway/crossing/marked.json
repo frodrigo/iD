@@ -12,12 +12,12 @@
     ],
     "tags": {
         "cycleway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "addTags": {
         "highway": "cycleway",
         "cycleway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "reference": {
         "key": "cycleway",

@@ -10,11 +10,11 @@
     ],
     "tags": {
         "highway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "addTags": {
         "highway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "reference": {
         "key": "highway",
