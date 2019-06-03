@@ -49,10 +49,6 @@
       "replace": {"amenity": "community_centre"}
     },
     {
-      "old": {"amenity": "dancing_school"},
-      "replace": {"leisure": "dance", "dance:teaching": "yes" }
-    },
-    {
       "old": {"amenity": "dog_bin"},
       "replace": {"amenity": "waste_basket", "waste": "dog_excrement"}
     },
@@ -105,10 +101,6 @@
       "replace": {"amenity": "kindergarten", "preschool": "yes"}
     },
     {
-      "old": {"amenity": "public_building"},
-      "replace": {"building": "public"}
-    },
-    {
       "old": {"amenity": "real_estate"},
       "replace": {"office": "estate_agent"}
     },
@@ -123,10 +115,6 @@
     {
       "old": {"amenity": "sauna"},
       "replace": {"leisure": "sauna"}
-    },
-    {
-      "old": {"amenity": "scrapyard"},
-      "replace": {"landuse": "industrial", "industrial": "scrap_yard"}
     },
     {
       "old": {"amenity": "shop"},
@@ -540,10 +528,6 @@
       "old": {"highway": "no"}
     },
     {
-      "old": {"highway": "platform"},
-      "replace": {"highway": "platform", "public_transport": "platform"}
-    },
-    {
       "old": {"highway": "stile"},
       "replace": {"barrier": "stile"}
     },
@@ -592,16 +576,8 @@
       "replace": {"kerb": "flush"}
     },
     {
-      "old": {"landuse": "basin"},
-      "replace": {"natural": "water", "water": "basin"}
-    },
-    {
       "old": {"landuse": "conservation"},
       "replace": {"boundary": "protected_area"}
-    },
-    {
-      "old": {"landuse": "farm"},
-      "replace": {"landuse": "farmland"}
     },
     {
       "old": {"landuse": "field"},
@@ -618,10 +594,6 @@
     {
       "old": {"landuse": "port"},
       "replace": {"landuse": "industrial", "industrial": "port"}
-    },
-    {
-      "old": {"landuse": "reservoir"},
-      "replace": {"natural": "water", "water": "reservoir"}
     },
     {
       "old": {"landuse": "wood"},
@@ -1025,10 +997,6 @@
       "replace": {"shop": "bookmaker"}
     },
     {
-      "old": {"shop": "boutique"},
-      "replace": {"shop": "clothes"}
-    },
-    {
       "old": {"shop": "cafe"},
       "replace": {"amenity": "cafe"}
     },
@@ -1307,10 +1275,6 @@
     {
       "old": {"water": "intermittent"},
       "replace": {"natural": "water", "intermittent": "yes"}
-    },
-    {
-      "old": {"water": "riverbank"},
-      "replace": {"natural": "water", "water": "river"}
     },
     {
       "old": {"water": "salt"},
