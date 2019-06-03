@@ -12,13 +12,13 @@
     ],
     "tags": {
         "footway": "crossing",
-        "crossing": "marked",
+        "crossing_ref": "zebra",
         "traffic_calming": "table"
     },
     "addTags": {
         "highway": "footway",
         "footway": "crossing",
-        "crossing": "marked",
+        "crossing_ref": "zebra",
         "traffic_calming": "table"
     },
     "reference": {

@@ -273,6 +273,14 @@
       "replace": {"crossing:island": "yes"}
     },
     {
+      "old": {"crossing": "zebra"},
+      "replace": {"crossing_ref": "zebra"}
+    },
+    {
+      "old": {"crossing": "marked"},
+      "replace": {"crossing_ref": "yes"}
+    },
+    {
       "old": {"cuisine": "gluten-free"},
       "replace": {"diet:gluten_free": "*"}
     },
