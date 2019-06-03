@@ -11,12 +11,12 @@
     ],
     "tags": {
         "footway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "addTags": {
         "highway": "footway",
         "footway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "reference": {
         "key": "footway",

@@ -8,11 +8,12 @@
         "vertex"
     ],
     "tags": {
-        "crossing": "marked"
+        "highway": "crossing",
+        "crossing_ref": "zebra"
     },
     "addTags": {
         "highway": "crossing",
-        "crossing": "marked"
+        "crossing_ref": "zebra"
     },
     "reference": {
         "key": "highway",

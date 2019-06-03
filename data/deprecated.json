@@ -226,7 +226,11 @@
     },
     {
       "old": {"crossing": "zebra"},
-      "replace": {"crossing": "marked"}
+      "replace": {"crossing_ref": "zebra"}
+    },
+    {
+      "old": {"crossing": "marked"},
+      "replace": {"crossing_ref": "yes"}
     },
     {
       "old": {"cuisine": "gluten-free"},
