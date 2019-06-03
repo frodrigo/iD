@@ -1,5 +1,5 @@
 {
-    "keys": ["access", "foot", "motor_vehicle", "bicycle", "horse"],
+    "keys": ["access", "foot", "motor_vehicle", "bicycle"],
     "reference": {"key": "access"},
     "type": "access",
     "label": "Allowed Access",
@@ -9,8 +9,7 @@
             "access": "All",
             "foot": "Foot",
             "motor_vehicle": "Motor Vehicles",
-            "bicycle": "Bicycles",
-            "horse": "Horses"
+            "bicycle": "Bicycles"
         },
         "options": {
             "yes": {
