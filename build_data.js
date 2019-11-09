@@ -293,15 +293,15 @@ function suggestionsToPresets(presets) {
         let logoURL;
         let logoURLs = wikidata[qid] && wikidata[qid].logos;
         if (logoURLs) {
-            if (logoURLs.wikidata && preferCommons[qid]) {
+//            if (logoURLs.wikidata && preferCommons[qid]) {
+//                logoURL = logoURLs.wikidata;
+//            } else if (logoURLs.facebook) {
+//                logoURL = logoURLs.facebook;
+//            } else if (logoURLs.twitter) {
+//                logoURL = logoURLs.twitter;
+//            } else {
                 logoURL = logoURLs.wikidata;
-            } else if (logoURLs.facebook) {
-                logoURL = logoURLs.facebook;
-            } else if (logoURLs.twitter) {
-                logoURL = logoURLs.twitter;
-            } else {
-                logoURL = logoURLs.wikidata;
-            }
+//            }
         }
 
         presets[suggestionID] = {
