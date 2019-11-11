@@ -1,3 +1,18 @@
+# This repository is *NOT* a fork of the iD Editor.
+
+This *IS* a set of patchs to change controversial decision made in the original iD Editor settings or source code.
+
+https://wiki.openstreetmap.org/wiki/ID/Controversial_Decisions
+
+Please contribute here only small changes not accepted in the original version after exchanges with original iD mainteners an OSM community.
+
+Report any bug, idea or pull request to the original version.
+
+This repository follow the 2.x branch of iD.
+
+This patched version is deployed at http://id.openstreetmap.fr/
+
+
 # iD - friendly JavaScript editor for [OpenStreetMap](https://www.openstreetmap.org/)
 
 [![Build Status](https://travis-ci.org/openstreetmap/iD.svg?branch=master)](https://travis-ci.org/openstreetmap/iD)
